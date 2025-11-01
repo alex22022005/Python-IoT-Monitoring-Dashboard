@@ -1,0 +1,7 @@
+tkinter
+matplotlib
+pandas
+numpy
+scikit-learn
+pyserial
+sqlite3
